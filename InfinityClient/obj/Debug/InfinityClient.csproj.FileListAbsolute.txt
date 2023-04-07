@@ -1,0 +1,17 @@
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityClient\bin\Debug\InfinityClient.exe.config
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityClient\bin\Debug\InfinityClient.exe
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityClient\bin\Debug\InfinityClient.pdb
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityClient\obj\Debug\InfinityClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityClient\obj\Debug\InfinityClient.Form1.resources
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityClient\obj\Debug\InfinityClient.Properties.Resources.resources
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityClient\obj\Debug\InfinityClient.csproj.GenerateResource.cache
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityClient\obj\Debug\InfinityClient.csproj.CoreCompileInputs.cache
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityClient\obj\Debug\InfinityClient.exe
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityClient\obj\Debug\InfinityClient.pdb
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityClient\obj\Debug\InfinityClient.ChatWnd.resources
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityClient\bin\Debug\InfinityProtocol.dll
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityClient\bin\Debug\InfinityProtocol.pdb
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityClient\obj\Debug\InfinityClient.csproj.CopyComplete
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityClient\obj\Debug\InfinityClient.csproj.AssemblyReference.cache
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityClient\obj\Debug\InfinityClient.PMWnd.resources

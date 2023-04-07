@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cae52f49-2b95-47f0-91a1-0e4fa62a8e77": {
+      "ProjectGuid": "cae52f49-2b95-47f0-91a1-0e4fa62a8e77",
+      "DisplayName": "InfinityServer",
+      "ColorIndex": 0
+    },
+    "8cbbba5a-b594-4a65-832a-1fb54b7563e2": {
+      "ProjectGuid": "8cbbba5a-b594-4a65-832a-1fb54b7563e2",
+      "DisplayName": "InfinityClient",
+      "ColorIndex": 1
+    },
+    "9a63433a-7dbd-4618-829a-e1af3615cad0": {
+      "ProjectGuid": "9a63433a-7dbd-4618-829a-e1af3615cad0",
+      "DisplayName": "InfinityProtocol",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b3b93702-19e7-4d22-8bb9-70cba3321bc0": {
+      "ProjectGuid": "b3b93702-19e7-4d22-8bb9-70cba3321bc0",
+      "DisplayName": "Flawless2",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S6sWtd6L5tmHodImBgVMpvDm6voVQle6n1n01Nd0WVVAL59nLEF0UjT3aLxyrfoo1HZlWqY54e2XPUHMH4ms+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kolya5544\\source\\repos\\InfinityProject\\InfinityServer\\InfinityServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kolya5544\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

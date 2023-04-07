@@ -1,0 +1,10 @@
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityProtocol\obj\Debug\netstandard2.0\InfinityProtocol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityProtocol\obj\Debug\netstandard2.0\InfinityProtocol.AssemblyInfoInputs.cache
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityProtocol\obj\Debug\netstandard2.0\InfinityProtocol.AssemblyInfo.cs
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityProtocol\obj\Debug\netstandard2.0\InfinityProtocol.csproj.CoreCompileInputs.cache
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityProtocol\bin\Debug\netstandard2.0\InfinityProtocol.deps.json
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityProtocol\bin\Debug\netstandard2.0\InfinityProtocol.dll
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityProtocol\bin\Debug\netstandard2.0\InfinityProtocol.pdb
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityProtocol\obj\Debug\netstandard2.0\InfinityProtocol.dll
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityProtocol\obj\Debug\netstandard2.0\InfinityProtocol.pdb
+C:\Users\kolya5544\source\repos\InfinityProject\InfinityProtocol\obj\Debug\netstandard2.0\InfinityProtocol.csproj.AssemblyReference.cache
